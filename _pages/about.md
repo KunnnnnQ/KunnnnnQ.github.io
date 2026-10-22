@@ -15,7 +15,7 @@ announcements:
   enabled: false # includes a list of news items
 
 latest_posts:
-  enabled: true
+  enabled: false # turn on after the first post
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
